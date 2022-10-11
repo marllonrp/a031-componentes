@@ -54,6 +54,11 @@ main {
   justify-items: stretch;
 }
 
+.pokoyo img {
+  width: 30px;
+  height: 30px;
+}
+
 footer {
   background: #333b3e;
   color: white;
